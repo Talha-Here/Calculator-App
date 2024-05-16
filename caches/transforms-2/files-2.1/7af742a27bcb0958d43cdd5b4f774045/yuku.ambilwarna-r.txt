@@ -1,0 +1,29 @@
+yuku.ambilwarna
+attr supportsAlpha
+dimen ambilwarna_hsvHeight
+dimen ambilwarna_hsvWidth
+dimen ambilwarna_hueWidth
+dimen ambilwarna_spacer
+drawable ambilwarna_alphacheckered
+drawable ambilwarna_alphacheckered_tiled
+drawable ambilwarna_arrow_down
+drawable ambilwarna_arrow_right
+drawable ambilwarna_cursor
+drawable ambilwarna_hue
+drawable ambilwarna_target
+id ambilwarna_alphaCheckered
+id ambilwarna_alphaCursor
+id ambilwarna_cursor
+id ambilwarna_dialogView
+id ambilwarna_newColor
+id ambilwarna_oldColor
+id ambilwarna_overlay
+id ambilwarna_pref_widget_box
+id ambilwarna_state
+id ambilwarna_target
+id ambilwarna_viewContainer
+id ambilwarna_viewHue
+id ambilwarna_viewSatBri
+layout ambilwarna_dialog
+layout ambilwarna_pref_widget
+styleable AmbilWarnaPreference supportsAlpha
